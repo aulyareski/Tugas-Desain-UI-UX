@@ -1,0 +1,6 @@
+{
+  "name": "Bibliotech - Digital Lending Library",
+  "description": "Sistem Sirkulasi dan Katalog Perpustakaan Digital Modern dengan Desain Antarmuka Bersih dan Figma Design System UI Kit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
